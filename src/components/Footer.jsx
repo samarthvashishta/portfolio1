@@ -18,7 +18,7 @@ const Footer = () => {
             <a href="https://www.linkedin.com/in/samarthvashishta" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-400">
             <FaLinkedin size={24} />
           </a>
-          <a href="https://twitter.com/samarthvashishta" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-400">
+          <a href="https://twitter.com/samarthvashisht" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-400">
             <FaTwitter size={24} />
           </a>
           <a href="https://github.com/samarthvashishta" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-400">
